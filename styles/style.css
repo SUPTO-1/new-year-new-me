@@ -1,0 +1,47 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px;
+}
+.header-background {
+  background-image: url("../images/banner/banner4.png");
+  width: 1920px;
+  height: 907px;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.header-info {
+  position: absolute;
+  top: 216px;
+  right: 230px;
+  text-align: right;
+}
+.header-title {
+  color: var(--Dark-01, #151414);
+  text-align: right;
+  font-size: 65px;
+  font-weight: 700;
+  height: 225px;
+  width: 525px;
+}
+.header-description {
+  color: var(--Dark-02, #444343);
+  font-size: 16px;
+  font-weight: 400;
+  width: 494px;
+  height: 78px;
+  margin-left: 30px;
+  margin-top: 24px;
+}
+.contact-btn{
+    width: 160px;
+height: 64px;
+    border: 0px;
+    border-radius: 5px;
+background: #F15B22;
+color: #FFF;
+text-align: center;
+font-size: 20px;
+font-weight: 600;
+margin-top: 33px;
+}
